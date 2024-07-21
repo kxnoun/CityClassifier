@@ -30,7 +30,7 @@ pip install pandas numpy
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/city-predictor.git
+   git clone https://github.com/kxnoun/city-predictor.git
    cd city-predictor
    ```
 
