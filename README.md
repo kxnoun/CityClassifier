@@ -4,7 +4,7 @@
 
 Welcome to the **City Predictor** project! This repository contains the code and data for a machine learning model that predicts cities based on survey responses from students at the University of Toronto. The model guesses one of four cities: Rio de Janeiro, Dubai, New York City, or Paris, based on answers to 10 questions.
 
-Our model achieved a test accuracy of 87.5% (63/72)
+**Our model achieved a test accuracy of 87.5% (63/72)**
 
 ## 📊 Project Overview
 
